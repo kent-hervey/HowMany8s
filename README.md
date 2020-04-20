@@ -6,7 +6,7 @@ I thought it would be fun to code it up...
 
 Here is the original FB post....the comments were also interesting
 
-![Image](readmeimages/originalFBpost.png "Home Page")  
+![Image](readmeimages/originalFBpost.PNG "FB post")  
 
 The output is simple. It just says:  The number of 8s painted is:  ##  
 
